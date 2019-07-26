@@ -1,12 +1,11 @@
-/*
- * css styles go here
- */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300|Roboto+Slab&display=swap');
+
 *{
 	box-sizing:border-box;
 }
 
 html{
-background: linear-gradient(135deg, rgba(13,26,122,1) 0%, rgba(0,102,102,1) 100%);
+background: linear-gradient(90deg, rgba(13,26,122,1) 0%, rgba(0,102,102,1) 100%);
 }
 
 body {
@@ -23,13 +22,22 @@ body {
 	width:100%;
 	min-height:25em;
 	background-image:url("https://rootyjr.github.io/sleep-sounds/images/aurora_bg.jpg");
+	display:flex;
+}
+
+.banner > h2{
+	display:block;
+	margin:auto;
+	color:white;
+	font-family:'Roboto Slab';
+	text-shadow: 2px 2px 0px rgba(215, 215, 215, 1);
 }
 
 .content{
-	padding:1em;
 }
 
 .sounds{
+	padding:1em;
 	width:60%;
 	min-width:15em;
 	margin:auto;
@@ -38,14 +46,18 @@ body {
 
 .sounds > ul{
 	margin:0;
+	padding:0;
 	list-style-type:none;
 }
 
 .sounds > ul > li {
+	padding:.25em;
 	border-top:1px solid #ccc;
 }
 
 .sounds > ul > li > span {
-	font-size:3em;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:2.5em;
+	color: 
 }
 
