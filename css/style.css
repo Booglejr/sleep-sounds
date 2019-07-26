@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300|Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400|Roboto+Slab&display=swap');
 
 *{
 	box-sizing:border-box;
@@ -60,12 +60,13 @@ body {
 	height:2em;
 	border-radius:10px;
 	vertical-align: middle;
+	margin-right:10px;
 }
 
 .sounds > ul > li > span {
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	font-size:1.5em;
-	color: 
+	color: #334;
 }
 
 .sounds > ul > li > audio{
@@ -87,4 +88,8 @@ body {
 		margin:auto;
 		background-color:#efefef;
 	}
+}
+
+#credits{
+font-size:.8em;
 }

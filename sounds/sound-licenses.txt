@@ -3,10 +3,10 @@ campfire.ogg
 	License: CC BY 3.0
 	Changes: I did rename this file from Campfire_sound_ambience.ogg to campfire.ogg.
 	
-sound_of_rain.ogg
+rain.ogg
 	Author: Effib
 	License: CC BY-SA 3.0
-	Changes: I lowercased the 's'.
+	Changes: renamed Sound_of_rain.ogg to rain.ogg. Trimmed it to be loopable.
 	
 encampment_river.ogg 
 	Author: Rootyjr
