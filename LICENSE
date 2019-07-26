@@ -1,3 +1,7 @@
+Excepting the sound files and image files all works fall under the license below:
+
+---
+
 MIT License
 
 Copyright (c) 2019 Rootyjr
@@ -19,3 +23,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+For license information pertaining to the sound files see sound-licenses.txt in the sounds folder.
+
+For license information pertaining to the image files see image-licenses.txt in the images folder.
