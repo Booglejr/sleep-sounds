@@ -39,8 +39,8 @@ body {
 
 .sounds{
 	padding:1em;
-	width:60%;
-	min-width:15em;
+	width:100%;
+	max-width:600px;
 	margin:auto;
 	background-color:#efefef;
 }
@@ -56,8 +56,8 @@ body {
 }
 
 .sounds > ul > li > img {
-	width:3em;
-	height:3em;
+	width:2em;
+	height:2em;
 	border-radius:10px;
 	vertical-align: middle;
 }
@@ -70,4 +70,21 @@ body {
 
 .sounds > ul > li > audio{
 	float:right;
+}
+
+@media screen and (max-width: 600px) {
+	.sounds > ul > li > *{
+		display:block;
+	}
+	
+	.sounds > ul > li > audio{
+		float:none;
+	}
+	
+	.sounds{
+		padding:1em;
+		width:100%;
+		margin:auto;
+		background-color:#efefef;
+	}
 }
