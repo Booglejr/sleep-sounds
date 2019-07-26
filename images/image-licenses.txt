@@ -6,4 +6,13 @@ aurora_bg.jpg
 campfire.jpg
 	Author: Alasdair
 	License: CC BY 2.0
-	Changes: 800px-Campfire_at_Bramble_Bield to campfire.jpg.
+	Changes: Renamed 800px-Campfire_at_Bramble_Bield to campfire.jpg.
+
+rain.jpg
+	Author: Juni from Kyoto, Japan
+	License: CC BY 2.0
+	Changes: Renamed 800px-Here_comes_rain_again to rain.jpg.
+
+encampment_river.jpg
+	Author: Rootyjr
+	License: MIT
