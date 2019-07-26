@@ -16,3 +16,8 @@ rain.jpg
 encampment_river.jpg
 	Author: Rootyjr
 	License: MIT
+
+cat.jpg
+	Author: Kenny Louie
+	License: CC BY 2.0
+	Changes: Renamed 512px-Passed_out_(4089072700).jpg to cat.jpg.

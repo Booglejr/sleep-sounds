@@ -55,7 +55,7 @@ body {
 	padding:.5em;
 }
 
-.sounds > ul > li > img {
+.sounds > ul > li > span > img {
 	width:2em;
 	height:2em;
 	border-radius:10px;

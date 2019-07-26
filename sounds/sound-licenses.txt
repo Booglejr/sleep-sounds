@@ -11,3 +11,7 @@ sound_of_rain.ogg
 encampment_river.ogg 
 	Author: Rootyjr
 	License: MIT
+	
+cat_purr.ogg
+	Author: InsaneJeff
+	License: Works Exists in Public Domain
