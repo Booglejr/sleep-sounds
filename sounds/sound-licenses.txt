@@ -9,7 +9,7 @@ rain.ogg
 	Changes: renamed Sound_of_rain.ogg to rain.ogg. Trimmed it to be loopable.
 	
 encampment_river.ogg 
-	Author: Rootyjr
+	Author: Booglejr
 	License: MIT
 	
 cat_purr.ogg
