@@ -14,7 +14,7 @@ rain.jpg
 	Changes: Renamed 800px-Here_comes_rain_again to rain.jpg.
 
 encampment_river.jpg
-	Author: Rootyjr
+	Author: Booglejr
 	License: MIT
 
 cat.jpg
